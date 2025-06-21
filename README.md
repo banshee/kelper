@@ -25,3 +25,13 @@ This is a Chrome extension project scaffolded for integrating with Wix.
 
 ## Customization
 - Add your Wix API logic in `content.js` or `popup/popup.js` as needed.
+
+
+# Icons
+
+Icons created with:
+
+   # Convert a source image (e.g., logo.png) to all required sizes
+   convert logo.png -resize 16x16 icon16.png
+   convert logo.png -resize 48x48 icon48.png
+   convert logo.png -resize 128x128 icon128.png
